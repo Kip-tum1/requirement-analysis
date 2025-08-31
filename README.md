@@ -76,7 +76,7 @@ Verification, on the other hand, is about making sure that the requirements are 
 
 Together, validation and verification serve as a double check to ensure that the software development process is built on a solid foundation of well-defined, agreed-upon, and accurately recorded requirements.
 
-# Why is  of Requirement Analysis Important?
+# Why is Requirement Analysis Important?
 
 Clarity and Understanding: It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
 Scope Definition: Clearly defines the scope of the project, which helps in preventing scope creep.
@@ -153,6 +153,7 @@ Benefits of Acceptance Criteria:
 Ensure all parties have a clear understanding of feature requirements.
 Provide a basis for testing and validation.
 Help in maintaining quality and meeting user expectations.
+
 
 
 
